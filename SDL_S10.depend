@@ -1,0 +1,823 @@
+# depslib dependency file v1.0
+1682813235 source:c:\users\dalya\desktop\nouveau dossier\sdl_s10\main.cpp
+	<exception>
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1682593122 source:c:\users\dalya\desktop\nouveau dossier\s10\src\jeu.cpp
+	"Jeu.h"
+
+1682592942 c:\users\dalya\desktop\nouveau dossier\s10\src\jeu.h
+	"Singe.h"
+	"Plateau.h"
+	"Poulet.h"
+	"Plante.h"
+
+1682589532 c:\users\dalya\desktop\nouveau dossier\s10\src\singe.h
+	<cassert>
+	<iostream>
+	"time.h"
+	"Plateau.h"
+	"Plante.h"
+
+1682543260 c:\users\dalya\desktop\nouveau dossier\s10\src\plateau.h
+	<iostream>
+	<fstream>
+	<cassert>
+	<windows.h>
+	<unistd.h>
+	"Plante.h"
+
+1682542326 c:\users\dalya\desktop\nouveau dossier\s10\src\plante.h
+	<iostream>
+	<cassert>
+
+1682543300 c:\users\dalya\desktop\nouveau dossier\s10\src\poulet.h
+	<iostream>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<fstream>
+	<cassert>
+	<stdio.h>
+	<unistd.h>
+	"Singe.h"
+	"Plateau.h"
+
+1682589936 source:c:\users\dalya\desktop\nouveau dossier\s10\src\main.cpp
+	<iostream>
+	"winTxt.h"
+	<windows.h>
+	<unistd.h>
+	"txtJeu.h"
+
+1655886838 c:\users\dalya\desktop\nouveau dossier\s10\src\wintxt.h
+
+1682589968 c:\users\dalya\desktop\nouveau dossier\s10\src\txtjeu.h
+	<iostream>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<fstream>
+	<cassert>
+	<stdio.h>
+	<unistd.h>
+	"Jeu.h"
+	"winTxt.h"
+
+1682416544 source:c:\users\dalya\desktop\nouveau dossier\s10\src\plante.cpp
+	"Plante.h"
+
+1682549904 source:c:\users\dalya\desktop\nouveau dossier\s10\src\plateau.cpp
+	"Plateau.h"
+
+1682543300 source:c:\users\dalya\desktop\nouveau dossier\s10\src\poulet.cpp
+	"Poulet.h"
+
+1682589532 source:c:\users\dalya\desktop\nouveau dossier\s10\src\singe.cpp
+	"Singe.h"
+
+1682593576 source:c:\users\dalya\desktop\nouveau dossier\s10\src\txtjeu.cpp
+	"txtJeu.h"
+
+1655886838 source:c:\users\dalya\desktop\nouveau dossier\s10\src\wintxt.cpp
+	"winTxt.h"
+	<cassert>
+	<stdlib.h>
+	<stdarg.h>
+	<iostream>
+	<stdio.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+	<termios.h>
+	<unistd.h>
+
+1682811723 source:c:\users\dalya\desktop\nouveau dossier\sdl_s10\jeusdl.cpp
+	<time.h>
+	"sdlJeu.h"
+	<stdlib.h>
+	<iostream>
+
+1682593122 source:c:\users\dalya\desktop\nouveau dossier\sdl_s10\src\core\jeu.cpp
+	"Jeu.h"
+
+1682592942 c:\users\dalya\desktop\nouveau dossier\sdl_s10\src\core\jeu.h
+	"Singe.h"
+	"Plateau.h"
+	"Poulet.h"
+	"Plante.h"
+
+1682589532 c:\users\dalya\desktop\nouveau dossier\sdl_s10\src\core\singe.h
+	<cassert>
+	<iostream>
+	"time.h"
+	"Plateau.h"
+	"Plante.h"
+
+1682543260 c:\users\dalya\desktop\nouveau dossier\sdl_s10\src\core\plateau.h
+	<iostream>
+	<fstream>
+	<cassert>
+	<windows.h>
+	<unistd.h>
+	"Plante.h"
+
+1682542326 c:\users\dalya\desktop\nouveau dossier\sdl_s10\src\core\plante.h
+	<iostream>
+	<cassert>
+
+1682543300 c:\users\dalya\desktop\nouveau dossier\sdl_s10\src\core\poulet.h
+	<iostream>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<fstream>
+	<cassert>
+	<stdio.h>
+	<unistd.h>
+	"Singe.h"
+	"Plateau.h"
+
+1682416544 source:c:\users\dalya\desktop\nouveau dossier\sdl_s10\src\core\plante.cpp
+	"Plante.h"
+
+1682549904 source:c:\users\dalya\desktop\nouveau dossier\sdl_s10\src\core\plateau.cpp
+	"Plateau.h"
+
+1682543300 source:c:\users\dalya\desktop\nouveau dossier\sdl_s10\src\core\poulet.cpp
+	"Poulet.h"
+
+1682589532 source:c:\users\dalya\desktop\nouveau dossier\sdl_s10\src\core\singe.cpp
+	"Singe.h"
+
+1682872403 source:c:\users\dalya\desktop\nouveau dossier\sdl_s10\src\sdl\jeusdl.cpp
+	<cassert>
+	<time.h>
+	"../core/Jeu.h"
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	"../core/Jeu.h"
+	"jeuSdl.h"
+	<iostream>
+
+1682868072 source:c:\users\dalya\desktop\nouveau dossier\sdl_s10\src\txt\maintxt.cpp
+
+1655886838 c:\users\dalya\desktop\nouveau dossier\sdl_s10\src\txt\wintxt.h
+
+1682863478 c:\users\dalya\desktop\nouveau dossier\sdl_s10\src\txt\txtjeu.h
+	<iostream>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<fstream>
+	<cassert>
+	<stdio.h>
+	<unistd.h>
+	"../core/Jeu.h"
+	"winTxt.h"
+
+1682867708 source:c:\users\dalya\desktop\nouveau dossier\sdl_s10\src\txt\txtjeu.cpp
+	"txtJeu.h"
+
+1655886838 source:c:\users\dalya\desktop\nouveau dossier\sdl_s10\src\txt\wintxt.cpp
+	"winTxt.h"
+	<cassert>
+	<stdlib.h>
+	<stdarg.h>
+	<iostream>
+	<stdio.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+	<termios.h>
+	<unistd.h>
+
+1682872153 source:c:\users\dalya\desktop\nouveau dossier\sdl_s10\src\sdl\mainsdl.cpp
+	<exception>
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"jeuSdl.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1682871837 c:\users\dalya\desktop\nouveau dossier\sdl_s10\src\sdl\jeusdl.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	"../core/Jeu.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648665440 c:\users\dalya\desktop\pacman\extern\sdl2_mingw-cb20\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1682593122 source:c:\users\dalya\desktop\survie_10\sdl_s10\src\core\jeu.cpp
+	"Jeu.h"
+
+1682592942 c:\users\dalya\desktop\survie_10\sdl_s10\src\core\jeu.h
+	"Singe.h"
+	"Plateau.h"
+	"Poulet.h"
+	"Plante.h"
+
+1682589532 c:\users\dalya\desktop\survie_10\sdl_s10\src\core\singe.h
+	<cassert>
+	<iostream>
+	"time.h"
+	"Plateau.h"
+	"Plante.h"
+
+1682543260 c:\users\dalya\desktop\survie_10\sdl_s10\src\core\plateau.h
+	<iostream>
+	<fstream>
+	<cassert>
+	<windows.h>
+	<unistd.h>
+	"Plante.h"
+
+1682542326 c:\users\dalya\desktop\survie_10\sdl_s10\src\core\plante.h
+	<iostream>
+	<cassert>
+
+1682543300 c:\users\dalya\desktop\survie_10\sdl_s10\src\core\poulet.h
+	<iostream>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<fstream>
+	<cassert>
+	<stdio.h>
+	<unistd.h>
+	"Singe.h"
+	"Plateau.h"
+
+1682416544 source:c:\users\dalya\desktop\survie_10\sdl_s10\src\core\plante.cpp
+	"Plante.h"
+
+1682549904 source:c:\users\dalya\desktop\survie_10\sdl_s10\src\core\plateau.cpp
+	"Plateau.h"
+
+1682543300 source:c:\users\dalya\desktop\survie_10\sdl_s10\src\core\poulet.cpp
+	"Poulet.h"
+
+1682589532 source:c:\users\dalya\desktop\survie_10\sdl_s10\src\core\singe.cpp
+	"Singe.h"
+
+1682949104 source:c:\users\dalya\desktop\survie_10\sdl_s10\src\sdl\jeusdl.cpp
+	<cassert>
+	<time.h>
+	"../core/Jeu.h"
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	"../core/Jeu.h"
+	"jeuSdl.h"
+	<iostream>
+
+1682887581 c:\users\dalya\desktop\survie_10\sdl_s10\src\sdl\jeusdl.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	"../core/Jeu.h"
+
+1682872731 source:c:\users\dalya\desktop\survie_10\sdl_s10\src\sdl\mainsdl.cpp
+	<exception>
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"jeuSdl.h"
+
+1682868072 source:c:\users\dalya\desktop\survie_10\sdl_s10\src\txt\maintxt.cpp
+
+1655886838 source:c:\users\dalya\desktop\survie_10\sdl_s10\src\txt\wintxt.cpp
+	"winTxt.h"
+	<cassert>
+	<stdlib.h>
+	<stdarg.h>
+	<iostream>
+	<stdio.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+	<termios.h>
+	<unistd.h>
+
+1655886838 c:\users\dalya\desktop\survie_10\sdl_s10\src\txt\wintxt.h
+
+1682889364 source:c:\users\dalya\desktop\survie_10\sdl_s10\src\txt\txtjeu.cpp
+	"txtJeu.h"
+
+1682863478 c:\users\dalya\desktop\survie_10\sdl_s10\src\txt\txtjeu.h
+	<iostream>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<fstream>
+	<cassert>
+	<stdio.h>
+	<unistd.h>
+	"../core/Jeu.h"
+	"winTxt.h"
+
+1682948933 source:c:\users\dalya\desktop\survie_10\sdl_s10\src\core\main.cpp
+	<iostream>
+	"../txt/winTxt.h"
+	<windows.h>
+	<unistd.h>
+	"../txt/txtJeu.h"
+
+1682948934 source:d:\yasmine\lifap4\depot\sdl_s10\src\core\main.cpp
+	<iostream>
+	"../txt/winTxt.h"
+	<windows.h>
+	<unistd.h>
+	"../txt/txtJeu.h"
+
+1682954322 d:\yasmine\lifap4\depot\sdl_s10\src\txt\wintxt.h
+
+1682954310 d:\yasmine\lifap4\depot\sdl_s10\src\txt\txtjeu.h
+	<iostream>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<fstream>
+	<cassert>
+	<stdio.h>
+	<unistd.h>
+	"../core/Jeu.h"
+	"winTxt.h"
+
+1682954806 d:\yasmine\lifap4\depot\sdl_s10\src\core\jeu.h
+	"Singe.h"
+	"Plateau.h"
+	"Poulet.h"
+	"Plante.h"
+
+1682954740 d:\yasmine\lifap4\depot\sdl_s10\src\core\singe.h
+	<cassert>
+	<iostream>
+	"time.h"
+	"Plateau.h"
+	"Plante.h"
+
+1682954586 d:\yasmine\lifap4\depot\sdl_s10\src\core\plateau.h
+	<iostream>
+	<fstream>
+	<cassert>
+	<windows.h>
+	<unistd.h>
+	"Plante.h"
+
+1682954504 d:\yasmine\lifap4\depot\sdl_s10\src\core\plante.h
+	<iostream>
+	<cassert>
+
+1682954796 d:\yasmine\lifap4\depot\sdl_s10\src\core\poulet.h
+	<iostream>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<fstream>
+	<cassert>
+	<stdio.h>
+	<unistd.h>
+	"Singe.h"
+	"Plateau.h"
+
+1682954170 source:d:\yasmine\lifap4\depot\sdl_s10\src\core\jeu.cpp
+	"Jeu.h"
+
+1682954186 source:d:\yasmine\lifap4\depot\sdl_s10\src\core\plante.cpp
+	"Plante.h"
+
+1682954202 source:d:\yasmine\lifap4\depot\sdl_s10\src\core\plateau.cpp
+	"Plateau.h"
+
+1682954222 source:d:\yasmine\lifap4\depot\sdl_s10\src\core\poulet.cpp
+	"Poulet.h"
+
+1682954244 source:d:\yasmine\lifap4\depot\sdl_s10\src\core\singe.cpp
+	<cassert>
+	<iostream>
+	"time.h"
+	"Plateau.h"
+	"Plante.h"
+
+1682954266 source:d:\yasmine\lifap4\depot\sdl_s10\src\sdl\jeusdl.cpp
+
+1682954074 source:d:\yasmine\lifap4\depot\sdl_s10\src\sdl\mainsdl.cpp
+
+1682954292 source:d:\yasmine\lifap4\depot\sdl_s10\src\txt\maintxt.cpp
+	<iostream>
+	"winTxt.h"
+	<windows.h>
+	<unistd.h>
+	"txtJeu.h"
+
+1682954300 source:d:\yasmine\lifap4\depot\sdl_s10\src\txt\txtjeu.cpp
+	"txtJeu.h"
+
+1682954316 source:d:\yasmine\lifap4\depot\sdl_s10\src\txt\wintxt.cpp
+	"winTxt.h"
+	<cassert>
+	<stdlib.h>
+	<stdarg.h>
+	<iostream>
+	<stdio.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+	<termios.h>
+	<unistd.h>
+

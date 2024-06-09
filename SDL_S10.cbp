@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SDL_S10" />
+		<Option makefile="makefile" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SDL_S10" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="extern/SDL2_mingw-cb20/SDL2-2.0.12/x86_64-w64-mingw32/include/SDL2" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SDL_S10" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/Users/dalya/Desktop/Pacman/extern/SDL2_mingw-cb20/SDL2-2.0.12/x86_64-w64-mingw32/include" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDL2main" />
+			<Add library="SDL2.dll" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add directory="C:/Users/dalya/Desktop/Pacman/extern/SDL2_mingw-cb20/SDL2-2.0.12/x86_64-w64-mingw32/lib" />
+		</Linker>
+		<ExtraCommands>
+			<Add after="XCOPY $(#sdl2)\bin\*.dll $(TARGET_OUTPUT_DIR) /D /Y" />
+		</ExtraCommands>
+		<Unit filename="src/core/Jeu.cpp" />
+		<Unit filename="src/core/Jeu.h" />
+		<Unit filename="src/core/Plante.cpp" />
+		<Unit filename="src/core/Plante.h" />
+		<Unit filename="src/core/Plateau.cpp" />
+		<Unit filename="src/core/Plateau.h" />
+		<Unit filename="src/core/Poulet.cpp" />
+		<Unit filename="src/core/Poulet.h" />
+		<Unit filename="src/core/Singe.cpp" />
+		<Unit filename="src/core/Singe.h" />
+		<Unit filename="src/core/main.cpp" />
+		<Unit filename="src/sdl/jeuSdl.cpp" />
+		<Unit filename="src/sdl/jeuSdl.h" />
+		<Unit filename="src/sdl/mainSdl.cpp" />
+		<Unit filename="src/txt/mainTxt.cpp" />
+		<Unit filename="src/txt/txtJeu.cpp" />
+		<Unit filename="src/txt/txtJeu.h" />
+		<Unit filename="src/txt/winTxt.cpp" />
+		<Unit filename="src/txt/winTxt.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
